@@ -1,0 +1,16 @@
+body{
+    background: #ca1ed7;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+    margin: 20px;
+}
+.blog-post-heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    font-weight: 600;
+}
